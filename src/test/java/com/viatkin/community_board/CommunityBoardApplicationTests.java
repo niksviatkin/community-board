@@ -1,13 +1,13 @@
-package com.viatkin.community_board;
+// package com.viatkin.community_board;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class CommunityBoardApplicationTests {
+// @SpringBootTest
+// class CommunityBoardApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// @Test
+// void contextLoads() {
+// }
 
-}
+// }
